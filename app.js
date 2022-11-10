@@ -5,7 +5,7 @@ app.get("/", function(req, res){
 })
 port= process.env.port || 3000;
 app.listen(port, function(){
-    console.log("Listen to port 3000");
+    console.log("Listening  to you motherfyucing port 3000");
     console.log("HULLE HULARE HULLE HULEE HULEE");
 })
     
